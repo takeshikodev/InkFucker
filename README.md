@@ -104,3 +104,7 @@ Automated tool to recover virus-hidden files from USB drives
 ## License
 
 Released under [MIT License](LICENSE). Attribution appreciated.
+
+---
+
+**Important:** This script doesn't guarantee full data recovery. For critical cases, consult professional data recovery services.
