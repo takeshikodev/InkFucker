@@ -92,9 +92,9 @@ Automated tool to recover virus-hidden files from USB drives
 ## Security
 
 - **Precautions**:
-  1. Scan drive with antivirus first
-  2. Maintain backup copies
-  3. Disable autorun.inf
+  - Scan drive with antivirus first
+  - Maintain backup copies
+  - Disable autorun.inf
 
 - **Implementation**:
   - No internet connection required
