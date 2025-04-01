@@ -38,7 +38,7 @@ Automated tool to recover virus-hidden files from USB drives
 - Enabled VBScript execution
 - Administrator privileges (recommended)
 
-## Installation Options
+## Installation
 
 1. Visit [Releases Page](https://github.com/takeshikodev/InkFucker/releases)
 2. Download `InkFucker.vbs`
