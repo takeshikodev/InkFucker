@@ -5,8 +5,6 @@
 ![GitHub release](https://img.shields.io/github/v/release/takeshikodev/InkFucker)
 ![Downloads](https://img.shields.io/github/downloads/takeshikodev/InkFucker/total)
 
-Инструмент для автоматического восстановления файлов, скрытых вирусами на USB-накопителях
-
 ## Содержание
 
 - [Возможности](#возможности)
