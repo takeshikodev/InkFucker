@@ -5,8 +5,6 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/takeshikodev/InkFucker)
 ![Downloads](https://img.shields.io/github/downloads/takeshikodev/InkFucker/total)
 
-Automated tool to recover virus-hidden files from USB drives
-
 ## Table of Contents
 
 - [Features](#features)
