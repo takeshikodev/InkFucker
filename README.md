@@ -103,7 +103,7 @@ Automated tool to recover virus-hidden files from USB drives
 
 ## License
 
-Released under [MIT License](LICENSE). Attribution appreciated.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) for details.
 
 ---
 
